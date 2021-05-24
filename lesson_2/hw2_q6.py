@@ -27,4 +27,4 @@ for a in range(1, 10000000):
     product.append(tup_1)
     for i in product:
         print(i)
-    print(analytics)
+    print(analytics) 
