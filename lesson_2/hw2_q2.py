@@ -7,6 +7,7 @@ for s_list in n_list:
     s_list.reverse()
     r_list.extend(s_list)
 print(r_list)'''
+
 #v2
 a = input('enter a list separated by a space: ')
 a = a.split()
