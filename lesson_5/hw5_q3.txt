@@ -1,0 +1,5 @@
+Smith 30000
+Roger 15000
+Ivanova 40000
+Abramovich 100000
+ChabanOgly 10
