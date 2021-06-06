@@ -14,4 +14,3 @@ class TrafficLight:
 
 tl = TrafficLight()
 tl.running()
-
