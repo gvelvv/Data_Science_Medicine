@@ -19,3 +19,7 @@ class Position(Worker):
 unit = Position('Ivan', 'Ivanov', 'CEO', 100, 20)
 print(unit.get_full_name())
 print(unit.get_total_income())
+<<<<<<< HEAD
+=======
+
+>>>>>>> lesson_5

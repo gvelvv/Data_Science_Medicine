@@ -53,4 +53,8 @@ car_3.stop()
 car_1.turn()
 car_4.go()
 car_1.show_speed()
+<<<<<<< HEAD
 car_3.show_speed()
+=======
+car_3.show_speed()
+>>>>>>> lesson_5

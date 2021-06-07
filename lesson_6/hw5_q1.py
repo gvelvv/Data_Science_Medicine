@@ -14,3 +14,7 @@ class TrafficLight:
 
 tl = TrafficLight()
 tl.running()
+<<<<<<< HEAD
+=======
+
+>>>>>>> lesson_5
