@@ -27,7 +27,3 @@ handle = Handle()
 pen.draw()
 pencil.draw()
 handle.draw()
-<<<<<<< HEAD
-=======
-
->>>>>>> lesson_5

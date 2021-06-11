@@ -22,4 +22,3 @@ while 1 == 1:
     list_1 = list_1_rev[::-1]
     print(list_1)
 
-

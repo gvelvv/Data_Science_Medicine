@@ -12,7 +12,3 @@ class Road:
 res = Road(20, 5000)
 print(res.calc(), 'ton')
 
-<<<<<<< HEAD
-=======
-
->>>>>>> lesson_5
